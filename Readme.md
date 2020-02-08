@@ -8,3 +8,16 @@ DatabaseLoader @Autowired on Constructor
     
 more information https://www.tutorialspoint.com/spring/spring_autowired_annotation.html
 
+React app
+
+    npx create-react-app frontend
+    cd frontend
+    npm start
+    
+backend  
+
+    http://localhost:8080/
+    
+frontend
+
+    http://localhost:3000/
